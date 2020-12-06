@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi :) 
 
-<!--
-**radek-zaborski/radek-zaborski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Radek. I'm Junior Front-End developer.
 
-Here are some ideas to get you started:
+In my profile you will see many projects. The most important for me is:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Holistic-medical - this is commercial project for first client - project ispublicate on: www.mikroskopowe-badanie-zywej-kropli-krwi.pl. Client accept this version. Now I waiting for next information from client.  
+
+Elbionic - this is second commercial project. Project actually waiting for migration domain.
+
+cookbook - my private project when You can save Your culinary recipes,  prepare shopping list with products for select recipes and print.
+ project is currently being developed - you can  see actual state on https://cookbook-radex171.herokuapp.com/
+
+
+
+
+other repositories is projects who i did during bootcamp when learn basic html5, css, js, react and more...
