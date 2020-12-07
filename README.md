@@ -4,7 +4,7 @@ My name is Radek. I'm Junior Front-End developer.
 
 In my profile you will see many projects. The most important for me is:
 
-Holistic-medical - this is commercial project for first client - project ispublicate on: www.mikroskopowe-badanie-zywej-kropli-krwi.pl. Client accept this version. Now I waiting for next information from client.  
+Holistic-medical - this is commercial project for first client - project is publicate on: www.mikroskopowe-badanie-zywej-kropli-krwi.pl. Client accept this version. Now I waiting for next information from client.  
 
 Elbionic - this is second commercial project. Project actually waiting for migration domain.
 
